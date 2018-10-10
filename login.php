@@ -30,7 +30,7 @@
 		<form action="<?= htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post">
 			<h4><?= $msg ?></h4>
 			<div class="form-group">
-				<label for="username">Usernam</label>
+				<label for="username">Username</label>
 				<input type="text" class="form-control" name="username" placeholder="Username" required autofocus>
 			</div>
 			<div class="form-group">
