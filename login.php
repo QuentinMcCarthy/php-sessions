@@ -38,7 +38,7 @@
 				<input type="password" class="form-control" name="password" placeholder="Password" required>
 			</div>
 			<button type="submit" class="btn btn-primary" name="login">Login</button>
-			<button type="submit" class="btn btn-secondary" name="logout">Logout</button>
 		</form>
+		<button type="submit" class="btn btn-secondary mt-2" name="logout"><a style="color: white;" href="logout.php">Logout</a></button>
 	</body>
 </html>
